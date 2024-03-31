@@ -1,0 +1,33 @@
+{
+  "name": "programcodecraftsman",
+  "version": "1.0.2",
+  "description": "programcodecraftsman",
+  "type": "module",
+  "main": "programcodecraftsman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wheatn1984/programcodecraftsman"
+  },
+  "website": "https://github.com/wheatn1984/programcodecraftsman.git",
+  "keywords": [
+    "programcodecraftsman"
+  ],
+  "author": "wheatn1984",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wheatn1984/programcodecraftsman/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/wheatn1984/programcodecraftsman#readme",
+  "dependencies": {
+    "codecraftguru": "1.0.2",
+    "devcodewhiz": "1.0.2",
+    "codescriptcraftpro": "1.0.2"
+  }
+}
